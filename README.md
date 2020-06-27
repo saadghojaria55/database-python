@@ -18,7 +18,3 @@ For the standalone executable, please see the **app folder** and look for file n
 
 <img width="541" alt="2018-01-06 06 56 01 pm" src="https://user-images.githubusercontent.com/19476654/34646061-5b5ff55a-f313-11e7-96a1-4109b6b24e24.png">
  
-
-# Author 
-
-[@Daniel Huang](https://www.linkedin.com/in/daniel-huang-443546115/)
